@@ -19,7 +19,14 @@ http://blog.csdn.net/abcd_d_/article/details/45094473
 https://www.cnblogs.com/prpl/p/5537417.html
 
 # Pandas速查推荐
+
 Pandas速查手册中文版 
 http://blog.csdn.net/qq_33399185/article/details/60872853
+
 pandas官方手册
 http://pandas.pydata.org/pandas-docs/stable/dsintro.html#assigning-new-columns-in-method-chains
+
+# Python
+
+python函数——形参中的：*args和**kwargs
+https://www.cnblogs.com/xuyuanyuan123/p/6674645.html
